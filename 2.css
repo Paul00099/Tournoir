@@ -1,0 +1,67 @@
+html,body{
+    margin:0%;
+    padding: 0%;
+    background-color:rgb(226, 115, 10);
+}
+.header{
+    position: fixed;
+}
+.menu{
+  background: rgb(70, 18, 18);
+    width: 100%;
+    height: 70%;
+    line-height: 500%;
+    display: flex;
+  
+}
+
+.m-left{
+    float: left;
+}
+.logo{
+    margin: 0% ;
+    padding: 0%;
+    color:  chartreuse;
+    text-transform: uppercase;
+    font-size: 300%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    width: 30%;
+    border: collapse ;
+    background-color: chartreuse;
+}
+.je{
+    margin-top: -15%;
+}
+tbody{
+    padding: auto;
+     text-align: center;
+     border:solid 1px gold;
+     color:white;
+     background-color: violet;
+ }
+ .xxx{
+    float :center;
+
+ }
+ h2{
+     color:aqua;
+ }
+img{
+     width : 20%;
+     height: auto;
+}
+ .troi{
+     
+   
+   
+    
+ }
+ .quatre{
+     
+   
+     
+     
+     
+ }
